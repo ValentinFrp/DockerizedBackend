@@ -1,0 +1,17 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic[email]==2.4.2
+
+# Testing dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+httpx==0.25.1
+
+# Code quality tools
+black==23.11.0
+flake8==6.1.0
+isort==5.12.0
+
+# Additional utilities
+python-multipart==0.0.6
