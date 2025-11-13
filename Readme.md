@@ -509,8 +509,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 👨‍💻 Auteur
 
 **DevOps Team**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: devops@example.com
+- Email: valentinn.frappart@gmail.com
 
 ---
 
